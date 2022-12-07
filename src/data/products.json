@@ -1,0 +1,163 @@
+[
+  {
+    "category": "Trousers",
+    "title": "Trouser 6",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vuestore-a820e.appspot.com/o/products%2F6861415405_6_1_1.jpg?alt=media&token=6c64bdda-0bce-46b1-b88d-1c9e27ff0780",
+    "price": "1499",
+    "id": "2ObA9aThBtoYrnGcn3l0"
+  },
+  {
+    "price": "9999",
+    "title": "Tshirt 2",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vuestore-a820e.appspot.com/o/products%2F3427302800_2_1_1.jpg?alt=media&token=7e9c7780-af33-4ee3-9772-eb75434b4ee6",
+    "category": "T-shirts",
+    "id": "2T0aP8wPkIAl8mx8Iy0Y"
+  },
+  {
+    "price": "2959",
+    "category": "T-shirts",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vuestore-a820e.appspot.com/o/products%2F7446300505_2_1_1.jpg?alt=media&token=a9300c8e-49d8-4590-b267-19b51f7bd130",
+    "title": "Tshirt 8",
+    "id": "3BqycNcio5rIEJiZYE43"
+  },
+  {
+    "title": "Trouser 5",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vuestore-a820e.appspot.com/o/products%2F8574327507_6_1_1.jpg?alt=media&token=8d76a046-bc87-45e7-9472-a19ee574915c",
+    "category": "Trousers",
+    "price": "799",
+    "id": "7UOfwZ2SXCIjtb5XXH3x"
+  },
+  {
+    "price": "959",
+    "category": "Shoes",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vuestore-a820e.appspot.com/o/products%2F2101020040_6_1_1.jpg?alt=media&token=0bb3b14e-e3e8-43bf-b989-33ac97c5d805",
+    "title": "Shoes 1",
+    "id": "8oEnkAgF9RzFZRsudhJl"
+  },
+  {
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vuestore-a820e.appspot.com/o/products%2F6861317800_2_3_1.jpg?alt=media&token=9caf9bb3-0fe3-4ee3-a292-2e957fd5b873",
+    "category": "T-shirts",
+    "title": "Tshirt 10",
+    "price": "959",
+    "id": "AE2lDKrF2gskergvO6qB"
+  },
+  {
+    "price": "1999",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vuestore-a820e.appspot.com/o/products%2F2229020001_6_1_1.jpg?alt=media&token=5a39ed34-328d-4add-bc50-c3ca1837bd8e",
+    "title": "Shoes 4",
+    "category": "Shoes",
+    "id": "AKvsWFECEqnInWmFNKoN"
+  },
+  {
+    "price": "4999",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vuestore-a820e.appspot.com/o/products%2F3427305800_2_1_1.jpg?alt=media&token=d6668d99-fcda-439c-ae39-a2bf5d2528da",
+    "category": "T-shirts",
+    "title": "Tshirt 4",
+    "id": "FDRchokMLRrRGhJFO0jY"
+  },
+  {
+    "price": "5990",
+    "title": "Trouser 3",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vuestore-a820e.appspot.com/o/products%2F9252301710_6_1_1.jpg?alt=media&token=0bb32cc3-b588-4055-9fbd-7416b6e323a4",
+    "category": "Trousers",
+    "id": "JMnZXFQZMPCuXty79TXD"
+  },
+  {
+    "title": "Tshirt 5",
+    "category": "T-shirts",
+    "price": "1399",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vuestore-a820e.appspot.com/o/products%2F3833300800_2_1_1.jpg?alt=media&token=79e39fc0-cd25-4005-a4e5-444f803be3e9",
+    "id": "KOkYvd9vxeY6onqOH5Bq"
+  },
+  {
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vuestore-a820e.appspot.com/o/products%2F1187351400_6_1_1.jpg?alt=media&token=556bcb46-5ded-4b4c-9892-30a2d1284ded",
+    "category": "Trousers",
+    "price": "1999",
+    "title": "Trouser 2",
+    "id": "KqsR1ptyBZFzkP89GyJU"
+  },
+  {
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vuestore-a820e.appspot.com/o/products%2F3046444500_2_1_1.jpg?alt=media&token=318b8e4d-0c24-4371-af8e-185154c4c069",
+    "category": "T-shirts",
+    "price": "999",
+    "title": "Tshirt 1",
+    "id": "PmaZtu0UVBz4S0zUNHux"
+  },
+  {
+    "category": "Trousers",
+    "title": "Trouser 7",
+    "price": "2399",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vuestore-a820e.appspot.com/o/products%2F6861415403_6_1_1.jpg?alt=media&token=4d69a5e8-054e-41ec-9903-61bfc58d0f31",
+    "id": "RDBAYpXusUaeeQMt79Oq"
+  },
+  {
+    "title": "Tshirt 6",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vuestore-a820e.appspot.com/o/products%2F5520352800_1_1_1.jpg?alt=media&token=7ebd0746-7054-4e53-bba5-037db6106b89",
+    "category": "T-shirts",
+    "price": "1999",
+    "id": "W6OEyGM1zK37hUVPUefZ"
+  },
+  {
+    "price": "3799",
+    "category": "T-shirts",
+    "title": "Tshirt 3",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vuestore-a820e.appspot.com/o/products%2F3427303251_2_5_1.jpg?alt=media&token=d1cd02c4-ab6c-4d14-9655-77ef5217c390",
+    "id": "Xt8xpXmD19HDLm3otU8R"
+  },
+  {
+    "category": "Trousers",
+    "price": "2999",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vuestore-a820e.appspot.com/o/products%2F8574327707_6_1_1.jpg?alt=media&token=eb04c6ec-cf79-425a-8d03-c99fa4249298",
+    "title": "Trouser 4",
+    "id": "YAsMCgKI5nNy9f76XGvA"
+  },
+  {
+    "category": "Trousers",
+    "title": "Trouser 9",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vuestore-a820e.appspot.com/o/products%2F1187351400_6_1_1.jpg?alt=media&token=6682e828-b02d-4de5-a028-d24e7f4d6133",
+    "price": "1899",
+    "id": "YQF6Gyhjboj2eAo3NDOY"
+  },
+  {
+    "title": "Shoes 5",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vuestore-a820e.appspot.com/o/products%2F2303020009_6_1_1.jpg?alt=media&token=a42f27ee-3775-498c-b127-c3cb207bf4c0",
+    "price": "2999",
+    "category": "Shoes",
+    "id": "YsWOwiDDsEmwiNY5AwSO"
+  },
+  {
+    "title": "Trouser 1",
+    "price": "999",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vuestore-a820e.appspot.com/o/products%2F0706215251_6_1_1.jpg?alt=media&token=14c529f9-ba8f-4856-b1c4-0e81cbef4844",
+    "category": "Trousers",
+    "id": "YtlbwrWUZzUpxQuoje9z"
+  },
+  {
+    "category": "T-shirts",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vuestore-a820e.appspot.com/o/products%2F9621652667_2_1_1.jpg?alt=media&token=91a14468-1751-418b-8f53-bf607b647a74",
+    "title": "Tshirt 9",
+    "price": "4959",
+    "id": "jyidzML2SM662zejVdKX"
+  },
+  {
+    "category": "Shoes",
+    "title": "Shoes 2",
+    "price": "9599",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vuestore-a820e.appspot.com/o/products%2F2116920203_6_1_1.jpg?alt=media&token=60e9fbc0-379c-4d49-96a7-18bf88bd5433",
+    "id": "l0gib0rriCDTyX8qi7rY"
+  },
+  {
+    "title": "Trouser 8",
+    "category": "Trousers",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vuestore-a820e.appspot.com/o/products%2F6861233800_6_1_1.jpg?alt=media&token=dadb3aca-2b57-4f50-902c-a43fa529556d",
+    "price": "999",
+    "id": "p76sq71T84yojRg88LoB"
+  },
+  {
+    "title": "Shoes 3",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/vuestore-a820e.appspot.com/o/products%2F2207920203_6_1_1.jpg?alt=media&token=20cd1b9d-575d-4463-8f5f-60b42b9f4c2a",
+    "category": "Shoes",
+    "price": "1499",
+    "id": "pgcXEvDD9zm7l57ojFYO"
+  }
+]
